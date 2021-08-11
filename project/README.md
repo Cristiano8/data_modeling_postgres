@@ -5,12 +5,12 @@
 - [Dataset](#dataset)
 - [Schema](#schema)
 - [Files explanation](#files-explanation)
-- [1. data](#1-data)
-- [2. create_tables.py](#2-create_tables.py)
-- [3. etl.ipynb](#3etl.ipynb)
-- [4. etl.py](#4etl.py)
-- [5. sql_queries.py](#5sql_queries.py)
-- [6. test.ipynb](#&test.ipynb)
+    - [1. data](#1-data)
+    - [2. create_tables.py](#2.-create_tables.py)
+    - [3. etl.ipynb](#3.-etl.ipynb)
+    - [4. etl.py](#4.-etl.py)
+    - [5. sql_queries.py](#5.-sql_queries.py)
+    - [6. test.ipynb](#6.-test.ipynb)
 - [How to run](#how-to-run)
 
 ## Summary
