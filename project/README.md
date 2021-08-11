@@ -122,7 +122,7 @@ Jupiter notebook to test if the tables have been correctly populated.
 
 
 ## How to run
-cd <path of the project>
+cd 'path_of_the_project'
 python create_tables.py
 python etl.py
 
